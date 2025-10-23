@@ -1,10 +1,21 @@
+Nosizo Lukhele – SDS 510 Project 1 Bash Session Transcript
+
 Script started on Wed Oct 22 10:15:03 2025
-[?1034hbash-3.2$ /opt/anaconda3/envs/jupyter_env/bin/jupyter_mac.command ; exit;[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@envs/jupyter_env/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kscript b[K[K[K[K[K[K[K[Kpwd
+[?1034hbash-3.2$ /opt/anaconda3/envs/jupyter_env/bin/jupyter_mac.command ; exit;
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17@envs/jupyter_env/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[Kscript b[K[K[K[K[K[K[K[Kpwd
 /Users/nosizolukhele/data
 bash-3.2$ ls
 bash_session.txt		education_matches_results.txt	log.csv				pol.tar.gz
 bash-3.2$ mkdir sds510P[K_Project1
-bash-3.2$ cdmkdir sds510_Project1[1P[C[1P sds510_Project1[C[C[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1[C[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1[C[C[C[C[C[C[C[C[C[Cc sds510_Project1[C[C[C[C[C[C[C[C[C[C[Cd sds510_Project1[C[C[C[C[C[C[C[C[C[C[C[C
+bash-3.2$ cdmkdir sds510_Project1[1P[C[1P sds510_Project1
+[C[C[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1
+[C[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1
+[C[C[C[C[C[C[C[C[C[C[C[1P sds510_Project1
+[C[C[C[C[C[C[C[C[C[Cc sds510_Project1
+[C[C[C[C[C[C[C[C[C[C[Cd sds510_Project1
+[C[C[C[C[C[C[C[C[C[C[C[C
 bash-3.2$ pwd
 /Users/nosizolukhele/data/sds510_Project1
 bash-3.2$ curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[1@b[1@i[1@t[1@.[1@l[1@y[1@z[1P[1P[1P[1P[1P[1P[1P[C[1@b[1@i[1@t[1@.[1@l[1@y[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
@@ -19,10 +30,15 @@ tar: Error exit delayed from previous errors.
 bash-3.2$ tar -xvzf pol.tar.gz
 tar: Unrecognized archive format
 tar: Error exit delayed from previous errors.
-bash-3.2$ tar -xvzf pol.tar.gz[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://bit.ly/www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-^[[A    bash-3.2$ curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://bit.ly/www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[C[C[C[C[C[C[C[C[C[Cls[K
+bash-3.2$ tar -xvzf pol.tar.gz
+[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://bit.ly/www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+^[[A    bash-3.2$ curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K
+[C[C[C[C[C[C[C[C[C[Cls[Kcurl -s -L https://bit.ly/www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz
+[C[C[C[C[C[C[C[C[C[Cls[K
 pol.tar.gz
-bash-3.2$ lscurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K
+bash-3.2$ lscurl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz -o pol.tar.gz
+[C[C[C[C[C[C[C[C[C[Ctar -xvzf pol.tar.gz[K
 x log.csv
 bash-3.2$ ls -l
 total 6217088
